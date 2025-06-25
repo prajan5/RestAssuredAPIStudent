@@ -4,20 +4,4 @@ CI/CD, which stands for continuous integration and continuous delivery/deploymen
 Git is a free, open-source distributed version control system. It's primarily used for tracking changes in source code during software development. Key features of Git include speed, data integrity, and support for distributed, non-linear workflows. It helps maintain different versions of a project, facilitates collaboration among developers, and allows reverting to previous stable states if needed. Git is maintained by Junio Hamano since its inception by Linus Torvalds in 2005. It's used for tracking code changes, identifying who made changes, and facilitating coding collaboration.
 
 
-https://ibm-learning.udemy.com/course/git-going-fast/learn/lecture/1328088#overview
-
-
-https://ibm-learning.udemy.com/course/rest-api-aut
-
-
-https://ibm-learning.udemy.com/course/rest-api-automation-testing-rest-assured/learn/lecture/18334340#overview
-
-omation-testing-rest-assured/learn/lecture/6626788#overview
-
-API testign with Rest assured
-
-
-
-https://ibm-learning.udemy.com/course/git-going-fast/learn/lecture/1332358#overview
-
 https://www.atlassian.com/git/tutorials/saving-changes/git-commit
