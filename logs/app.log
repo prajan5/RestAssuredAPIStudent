@@ -1,0 +1,4 @@
+2025-06-25 16:29:55 [main] INFO  api.test.StudentTests - This is POST student
+2025-06-25 16:29:55 [main] INFO  api.test.StudentTests - This is student is created
+2025-06-25 16:34:21 [main] INFO  api.test.StudentTests - This is POST student
+2025-06-25 16:34:21 [main] INFO  api.test.StudentTests - This is student is created
