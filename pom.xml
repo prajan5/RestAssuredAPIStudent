@@ -18,7 +18,7 @@
           <version>3.5.2</version>
           <configuration>
           <suiteXmlFiles>
-          	<suiteXmlFile>TestNGParallel.xml</suiteXmlFile>
+          	<suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
             </configuration>
         </plugin>
