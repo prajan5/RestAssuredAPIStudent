@@ -17,6 +17,10 @@
   	<artifactId>maven-compiler-plugin</artifactId>
   	<version>3.14.0</version>
   	<configuration>
+		<compilerArgs>
+      <arg>--add-exports</arg>
+      <arg>jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED</arg>
+    </compilerArgs>
  <suiteXmlFiles>
   	<suite>testng.xml</suite>
  </suiteXmlFiles>
